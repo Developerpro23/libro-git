@@ -1,0 +1,1 @@
+Git es un sitema[24~stema de controlo de verisones ideado por Linus Tovarlds.
