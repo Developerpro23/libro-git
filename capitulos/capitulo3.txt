@@ -1,7 +1,1 @@
-youss@LAPTOP-CPERM8SU MINGW64 ~/documents/github/libro (master)
-$ cat > capitulos/capitulo3.txt
-
-youss@LAPTOP-CPERM8SU MINGW64 ~/documents/github/libro (master)
-$ cat > capitulos/capitulo3.txt
-
-Git permite la creación de ramas lo que permite tener distintas versiones del mismo proyecto y trabajar de manera simultanea en ellas.
+Git permite la creación de rams lo que permite tener distintas versiones demismo proyecto y trabajar simutaneamente en ellas.
